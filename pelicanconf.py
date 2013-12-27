@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'tenobi'
-SITENAME = "tenobi's blog"
-SITEURL = ''
+SITENAME = "tenobian zone"
+SITEURL = 'tenobian.org'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -23,7 +23,8 @@ TRANSLATION_FEED_ATOM = None
 
 # Social widget
 SOCIAL = (('last.fm', 'http://last.fm/user/t3n0b1'),
-          ('Pearltrees', 'http://www.pearltrees.com/tenobi'),)
+          ('Pearltrees', 'http://www.pearltrees.com/tenobi'),
+          ('Github', 'http://github.com/tenobi'),)
 
 DEFAULT_PAGINATION = 10
 
