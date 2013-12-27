@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'tenobi'
 SITENAME = "tenobian zone"
-SITEURL = 'tenobian.org'
+SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
 
